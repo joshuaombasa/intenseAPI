@@ -1,7 +1,7 @@
 import React, {useContext} from 'react'
 
 import './App.css'
-import { BoxesContext } from './ BoxesContext'
+import { BoxesContext } from './BoxesContext'
 
 
 function App() {
